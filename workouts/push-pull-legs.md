@@ -14,10 +14,10 @@
 
 ## Push 1
 	- Bench Press
-		1. 3x8 @weight
-		2. 4x8 @weight
-		3. 5x8 @weight
-		4. 3x8 @weight+5
+		1. week 1 3x8 @weight
+		2. week 2 4x8 @weight
+		3. week 3 5x8 @weight
+		4. repeat 3x8 @weight+5
 	- Machine Shoulder Press
 		- 3x12-15
 			- Increase weight when able to do 3-15
