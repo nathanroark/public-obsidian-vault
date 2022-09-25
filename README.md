@@ -1,5 +1,5 @@
 # Public Notes
 ---
-##[Recipes](recipes/)
+## [Recipes](recipes/)
 
-##[Workouts](workouts/)
+## [Workouts](workouts/)
