@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recipes/protein-bark.md",
+            "file": "recipes/anabolic-no-bake-cookie-dough.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/protein-bark.md",
+                "file": "recipes/anabolic-no-bake-cookie-dough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recipes/protein-bark.md",
+                "file": "recipes/anabolic-no-bake-cookie-dough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recipes/protein-bark.md"
+                "file": "recipes/anabolic-no-bake-cookie-dough.md"
               }
             }
           }
@@ -130,13 +130,15 @@
   },
   "active": "543c7b41c02dab95",
   "lastOpenFiles": [
-    "recipes/anabolic-french-toast.md",
+    "recipes/philly-cheesesteak-bites.md",
     "recipes/protein-bark.md",
     "workouts/push-pull-legs.md",
+    "recipes/anabolic-no-bake-cookie-dough.md",
+    "recipes/anabolic-french-toast.md",
+    "recipes/anabolic-ice-cream.md",
+    "README.md",
     "exercises/push-exercises.md",
     "exercises/leg-exercises.md",
-    "exercises/ab-exercises.md",
-    "exercises/back-exercises.md",
-    "exercises/chest-exercises.md"
+    "exercises/ab-exercises.md"
   ]
 }
