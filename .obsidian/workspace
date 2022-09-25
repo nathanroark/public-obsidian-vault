@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "recipes/anabolic-no-bake-cookie-dough.md",
+            "file": "recipes/README.md.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/anabolic-no-bake-cookie-dough.md",
+                "file": "recipes/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recipes/anabolic-no-bake-cookie-dough.md",
+                "file": "recipes/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recipes/anabolic-no-bake-cookie-dough.md"
+                "file": "recipes/README.md.md"
               }
             }
           }
@@ -130,10 +130,10 @@
   },
   "active": "543c7b41c02dab95",
   "lastOpenFiles": [
+    "recipes/anabolic-no-bake-cookie-dough.md",
     "recipes/philly-cheesesteak-bites.md",
     "recipes/protein-bark.md",
     "workouts/push-pull-legs.md",
-    "recipes/anabolic-no-bake-cookie-dough.md",
     "recipes/anabolic-french-toast.md",
     "recipes/anabolic-ice-cream.md",
     "README.md",
