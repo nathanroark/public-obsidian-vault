@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "406dea87da0ce772",
+    "type": "split",
+    "children": [
+      {
+        "id": "543c7b41c02dab95",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "recipes/protein-bark.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95c78c7bbf1fd9c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f500a693594f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169fe504c763e4d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a06fc4a5dcad4d1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sett",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eae3cd0d00c21f51",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.0036334991455
+  },
+  "right": {
+    "id": "7911d745eb169f42",
+    "type": "split",
+    "children": [
+      {
+        "id": "76e996f75195f920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d887f39592f172d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/protein-bark.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f747925d12b223e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/protein-bark.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02f33600d61614f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40d8a26057b89a1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/protein-bark.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "543c7b41c02dab95",
+  "lastOpenFiles": [
+    "recipes/anabolic-french-toast.md",
+    "recipes/protein-bark.md",
+    "workouts/push-pull-legs.md",
+    "exercises/push-exercises.md",
+    "exercises/leg-exercises.md",
+    "exercises/ab-exercises.md",
+    "exercises/back-exercises.md",
+    "exercises/chest-exercises.md"
+  ]
+}
