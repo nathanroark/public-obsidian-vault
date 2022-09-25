@@ -1,1 +1,5 @@
-# public-obsidian-vault
+# Public Notes
+---
+[Recipes](recipes/)
+
+[Workouts](workouts/)
