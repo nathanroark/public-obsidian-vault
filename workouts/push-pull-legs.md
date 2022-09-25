@@ -1,15 +1,14 @@
 # Push Pull Legs
 ---
 
-| Push Pull Legs |  
+| Push Pull Legs | Day |
 | ----------- | ----------- |
-| Catagory | Day |
-| Push 1 | Monday |
-| Pull 1 | Tuesday |
-| Legs 1 | Wednesday |
- | Push 2 | Thursday | 
-| Pull 2 | Friday |
-| Legs 2 | Saturday | 
+| [Push 1](#push-1) | Monday |
+| [Pull 1](#pull-1) | Tuesday |
+| [Legs 1](#legs-1) | Wednesday |
+| [Push 2](#push-2) | Thursday |
+| [Pull 2](#pull-2) | Friday |
+| [Legs 2](#legs-2) | Saturday |
 
 ---
 
