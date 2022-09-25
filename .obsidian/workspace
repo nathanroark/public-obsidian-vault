@@ -7,12 +7,8 @@
         "id": "543c7b41c02dab95",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "recipes/README.md.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recipes/README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "recipes/README.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "543c7b41c02dab95",
+  "active": "169fe504c763e4d2",
   "lastOpenFiles": [
     "recipes/anabolic-no-bake-cookie-dough.md",
     "recipes/philly-cheesesteak-bites.md",
